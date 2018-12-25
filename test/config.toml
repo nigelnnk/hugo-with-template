@@ -1,0 +1,38 @@
+baseURL = "nigelnnk.github.io/"
+languageCode = "en-us"
+title = "Welcome!"
+theme = "hugo-lodi-theme"
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+[params]
+    theme_color = "#574CDD"
+    description = "Portfolio of Nigel Neo"
+    description_photo = "portfolio.jpg"
+    favicon = "favicon.png"
+    logo = "logo2.png"
+    github = "nigelnnk"
+    linkedin = "https://sg.linkedin.com/in/nigelnnk"
+
+[params.nav]
+    enable = true
+
+[params.hero]
+    enable = true
+    avatar = "avatar.png"
+    subtitle = "Hello! I'm Nigel, a student in National University of Singapore. "
+    hero_right = ["**A pinch of chemistry, a dash of programming, and a hint of current affairs, all mixed with a deep passion to understand the world.**", "Lorem Ipsum"]
+	github = "nigelnnk"
+    resume = "Resume.pdf"
+
+[params.process]
+    enable = true
+    title = "My Process"
+    subtitle = "Full Process Design"
+
+[params.case_studies]
+    enable = true
+    title = "Blog"
+    ##subtitle = "Selected Works"
+
+[params.footer]
+    enable = true
