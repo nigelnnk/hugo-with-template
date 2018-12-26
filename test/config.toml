@@ -2,7 +2,7 @@ baseURL = "nigelnnk.github.io/"
 languageCode = "en-us"
 title = "Welcome!"
 theme = "hugo-lodi-theme"
-googleAnalytics = "UA-XXXXXXXX-Y"
+##googleAnalytics = "UA-131426973-1"
 
 [params]
     theme_color = "#574CDD"
@@ -26,8 +26,8 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params.process]
     enable = true
-    title = "My Process"
-    subtitle = "Full Process Design"
+    title = "More about me"
+    ##subtitle = ""
 
 [params.case_studies]
     enable = true
