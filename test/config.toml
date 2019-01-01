@@ -20,7 +20,7 @@ theme = "hugo-lodi-theme"
     enable = true
     avatar = "avatar.png"
     subtitle = "Hello! I'm Nigel, a student in National University of Singapore. "
-    hero_right = ["**A pinch of chemistry, a dash of programming, and a hint of current affairs, all mixed with a deep passion to understand the world.**", "Lorem Ipsum"]
+    hero_right = ["**A pinch of chemistry, a dash of programming, and a hint of current affairs, all mixed with a deep passion to understand the world.**", "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus euismod libero id lacus fermentum aliquet. Pellentesque eget molestie felis, ut ultricies felis. Nulla fringilla ante odio, sodales pellentesque elit laoreet semper. Donec sit amet purus dui. Sed ac molestie metus. Proin enim libero, suscipit eget euismod eget, egestas non nibh. Nunc viverra turpis mauris, et interdum ex commodo ac. Aenean rutrum nec ipsum sed euismod. Donec ornare tortor eget mauris elementum bibendum. Suspendisse placerat tincidunt orci sed bibendum. Praesent at arcu et lectus tempus consectetur id quis nunc. Nunc ut efficitur dui, ut porta risus. Aliquam vitae odio pulvinar, euismod elit eu, congue arcu. Donec vitae euismod nunc. Mauris eget dictum leo."]
 	github = "nigelnnk"
     resume = "Resume.pdf"
 
@@ -30,7 +30,7 @@ theme = "hugo-lodi-theme"
     ##subtitle = ""
 
 [params.case_studies]
-    enable = true
+    enable = false
     title = "Blog"
     ##subtitle = "Selected Works"
 
